@@ -8,7 +8,7 @@ public class HelloController {
 	
 	@GetMapping("hello")
 	public String getMethod() {
-		return "HelloWorld";
+		return "HelloWorld-updated";
 	}
 
 }
